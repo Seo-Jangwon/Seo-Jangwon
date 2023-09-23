@@ -1,6 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&color=0a0f0b&height=150&section=header&text=Seo-Jangwon&fontColor=abd200&fontSize=70&animation=fadeIn&fontAlignY=55)
+# 🙋‍♂️ Hello, World! I'm Seo, Jangwon🙋‍♂️
+
 
 #### 👇 contact to me 👇
 
