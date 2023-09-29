@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=Replit&logoColor=white"/>
   
 <br/>
 
