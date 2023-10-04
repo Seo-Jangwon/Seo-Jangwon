@@ -1,2 +1,2 @@
 markdown: kramdown
-kramdown --no-auto-ids
+auto_ids: false
