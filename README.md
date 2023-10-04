@@ -8,8 +8,9 @@
 
 #### 👇 contact to me 👇
 
-<a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seojang0510@gmail.com"/></a>
-<a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/NAVER Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
+<a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a><br/>
+<a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seojang0510@gmail.com"/></a> 
+
 
 #
 
@@ -25,8 +26,6 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=AWS Amplify&logoColor=white">
 
-  
-  
   <br/>
   
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
