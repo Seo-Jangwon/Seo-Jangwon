@@ -63,7 +63,7 @@
   
   ## EDUCATION
 
-   ### Yonsei University Wonju campus, WonJu, Republic of Korea
+   ### Yonsei University WonJu campus, WonJu, Republic of Korea
 
 * Major in Computer Science (02/2017~)
 
