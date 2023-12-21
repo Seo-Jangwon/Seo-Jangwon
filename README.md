@@ -67,7 +67,7 @@
 
 * Major in Computer Science (02/2017 ~ 02/2024)
 
-### SSAFY
+### SSAFY 11th
   
 * Java Track (01/2024~)
 
