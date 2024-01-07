@@ -12,7 +12,7 @@
 
 
 #
-
+<!--
 ####  👷 Once I've Used 👷
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
@@ -34,13 +34,15 @@
   
 <br/>
 
+
 #
+
 
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jangwon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jangwon&layout=donut&theme=tokyonight)
-
+-->
    <br/>
    <br/>
 
