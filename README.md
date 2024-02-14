@@ -45,7 +45,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jangwon&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seojang980510)](https://solved.ac/seojang980510/)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=seojang980510&theme=warm)
    <br/>
    <br/>
 <!--
