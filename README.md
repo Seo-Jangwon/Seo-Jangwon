@@ -1,19 +1,22 @@
-
 <div >
-
   
 # 🙋‍♂️ Hello, World! I'm Seo, Jangwon🙋‍♂️
 
-
 #### 👇 contact to me 👇
 
-<a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a><br/>
 <a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seojang0510@gmail.com"/></a> 
-
+<a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a><br/>
 
 #
 
 ####  👷 Once I've Used 👷
+  
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
+  
+  <br/>
   
   <img src="https://img.shields.io/badge/Java-06B6D4?style=flat&logo=Openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
@@ -23,22 +26,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-007396?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
   
 <br/>
-
 
 #
 
-
 <br/>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jangwon&layout=donut&theme=tokyonight)
 
