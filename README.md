@@ -1,5 +1,5 @@
 
-<div align="center">
+<div >
 
   
 # 🙋‍♂️ Hello, World! I'm Seo, Jangwon🙋‍♂️
