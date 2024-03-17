@@ -32,8 +32,9 @@
 #
 
 <br/>
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jangwon&layout=donut&theme=tokyonight)
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jangwon&show_icons=true&theme=tokyonight)
 
