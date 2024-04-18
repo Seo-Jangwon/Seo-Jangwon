@@ -10,16 +10,13 @@
 
 ####  👷 Once I've Used 👷
   
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   
   <br/>
   
   <img src="https://img.shields.io/badge/Java-06B6D4?style=flat&logo=Openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
