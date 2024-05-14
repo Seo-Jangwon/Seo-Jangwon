@@ -1,6 +1,6 @@
 <div >
   
-# 🙋‍♂️ Hello, World! I'm Seo, Jangwon🙋‍♂️
+# ✨ Hello, World! I'm Seo, Jangwon✨
 
 #### 👇 contact to me 👇
 
