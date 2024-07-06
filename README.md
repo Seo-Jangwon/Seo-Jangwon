@@ -31,13 +31,13 @@
 <br/>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Jangwon&layout=donut&theme=tokyonight)
-
+-->
 <img src="http://mazandi.herokuapp.com/api?handle=seojang980510&theme=dark"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seojang980510)](https://solved.ac/seojang980510/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jangwon&show_icons=true&theme=neon)
--->
+
    <br/>
    <br/>
 <!--
