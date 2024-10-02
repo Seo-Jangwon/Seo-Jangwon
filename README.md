@@ -16,12 +16,11 @@
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Java-06B6D4?style=flat&logo=Openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-007396?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   
 <br/>
