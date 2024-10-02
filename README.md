@@ -2,19 +2,21 @@
   
 # ✨ Hello, World! I'm Seo, Jangwon✨
 
-#### 👇 contact to me 👇
+#### 👇 Contact to me 👇
 
 <a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seojang0510@gmail.com"/></a> <br/>
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
 #
 
-####  👷 Once I've Used 👷
+####  👷 Development Environment 👷
 
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   
   <br/>
+
+  ####  👷 Skills 👷
   
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white">
