@@ -8,15 +8,17 @@
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
 #
 
-####  👷 Development Environment 👷
+####  👷 Tools 👷
 
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git Lab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
   
   <br/>
 
-  ####  👷 Skills 👷
+  ####  👷 Tech 👷
   
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white">
