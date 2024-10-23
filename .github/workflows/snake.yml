@@ -10,32 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
     steps:
-      - uses: actions/checkout@v4  # v2에서 v4로 업데이트
+      - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "type": "normal",
-              "colors": {
-                "levelColors": [
-                  "#162932",
-                  "#1B3E46",
-                  "#1F4B59",
-                  "#24586C",
-                  "#286580"
-                ],
-                "backgroundColor": "#ffffff"
-              }
-            }
+          MAX_REPOS: 250
+          SETTING_JSON: '{"type":"normal","colors":{"levelColors":["#162932","#1B3E46","#1F4B59","#24586C","#286580"],"backgroundColor":"#ffffff"}}'
 
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4  # v2.1.3에서 v4로 업데이트
-        with:
-          target_branch: main
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib/
+          git commit -m "Generated 3D Contribution Graph" || exit 0
+          git push
