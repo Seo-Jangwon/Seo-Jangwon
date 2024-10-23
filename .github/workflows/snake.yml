@@ -16,6 +16,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_PATH: "profile-3d-contrib/profile-3d.svg"  # 출력 경로 지정
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: |
             {
