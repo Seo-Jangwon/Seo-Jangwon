@@ -1,7 +1,7 @@
 name: Generate 3D Contribution Graph
 
 on:
-  schedule: # 매일 자정에 실행
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -22,11 +22,11 @@ jobs:
               "type": "normal",
               "colors": {
                 "levelColors": [
-                  "#162932",  # 가장 적은 contribution
+                  "#162932",
                   "#1B3E46",
                   "#1F4B59",
                   "#24586C",
-                  "#286580"   # 가장 많은 contribution
+                  "#286580"
                 ],
                 "backgroundColor": "#ffffff"
               }
