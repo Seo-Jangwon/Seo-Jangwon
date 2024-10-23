@@ -1,4 +1,4 @@
-<div >
+<div style="background-color: #0D1117; color: #c9d1d9; padding: 20px; border-radius: 6px;">
   
 # ✨ Hello, World! I'm Seo, Jangwon✨
 
