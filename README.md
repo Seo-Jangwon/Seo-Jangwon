@@ -99,8 +99,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- 기본 잔디 스타일 -->
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/Seo-Jangwon/Seo-Jangwon/output/github-contribution-grid-snake.svg)](https://github.com/Seo-Jangwon)
-
-
