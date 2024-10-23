@@ -22,11 +22,11 @@ jobs:
               "type": "normal",
               "colors": {
                 "levelColors": [
-                  "#162932",
+                  "#162932",  # 가장 적은 contribution
                   "#1B3E46",
                   "#1F4B59",
                   "#24586C",
-                  "#286580"
+                  "#286580"   # 가장 많은 contribution
                 ],
                 "backgroundColor": "#ffffff"
               }
