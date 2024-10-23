@@ -42,8 +42,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Jangwon&show_icons=true&theme=tokyonight)
 
-![3D Contribution Graph](./profile-3d-contrib/profile-3d.svg)
-
    <br/>
    <br/>
    
