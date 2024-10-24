@@ -47,49 +47,46 @@
 -->
 
 <!-- 통계와 생산적인 시간대 -->
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="33%">
-      <picture>
-        <source 
-          srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=vue"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight" />
-      </picture>
-    </td>
-    <td width="33%">
-      <picture>
-        <source 
-          srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=vue"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight" />
-      </picture>
-    </td>
-    <td width="33%">
-      <picture>
-        <source 
-          srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=vue&utcOffset=9"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div>
+<!-- GitHub 통계 -->
+  <picture>
+    <source 
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight" />
+  </picture>
+  
+  <!-- 언어 통계 -->
+  <picture>
+    <source 
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight" />
+  </picture>
+
+  <!-- 활동 시간 -->
+  <picture>
+    <source 
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=vue&utcOffset=9"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9" />
+  </picture>
+</div>
 
    <br/>
    <br/>
@@ -122,7 +119,7 @@
 
 ### SSAFY 11th
   
-* Java Track (01/2024~)
+* Java Track (01/2024~ 12/2024)
 
 </section>   
 
