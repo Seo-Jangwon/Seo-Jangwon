@@ -58,7 +58,7 @@
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=vue"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight" />
+    <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight" />
   </picture>
   
   <!-- 언어 통계 -->
@@ -71,7 +71,7 @@
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=vue"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight" />
+    <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight" />
   </picture>
 
   <!-- 활동 시간 -->
@@ -84,7 +84,7 @@
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=vue&utcOffset=9"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9" />
+    <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9" />
   </picture>
 </div>
 
