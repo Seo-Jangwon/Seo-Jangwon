@@ -1,6 +1,6 @@
 <div>
 
-# <img src="./typing.svg" width="500" alt="Typing SVG" />
+# 
 
 
 #### 👇 Contact to me 👇
