@@ -1,6 +1,7 @@
 <div>
-  
-# ✨ Hello, World! I'm Seo, Jangwon✨
+
+# <img src="./typing.svg" width="500" alt="Typing SVG" />
+
 
 #### 👇 Contact to me 👇
 
