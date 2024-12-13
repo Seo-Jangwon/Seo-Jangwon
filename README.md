@@ -9,7 +9,7 @@
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
 #
 
-###  👷 Tools 👷
+### 💻 Tools 💻
 <!-- IDE -->
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
 
-###  👷 Used 👷
+### 🧑‍💻 Used 🧑‍💻
 <!-- Framework -->
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <br/>
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white">
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
 
-###  📖 Interest & Studying 📖
+### 🌱 Interest & Studying 🌱
 <!-- Spring Ecosystem -->
 <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -95,7 +95,7 @@
 
 #
 
-### 💻 WORK EXPERIENCE 💻
+### 👨‍💼 WORK EXPERIENCE 👨‍💼
 
 #### [mDoc Homecare](https://m-doc.io/), Seoul, Republic of Korea
 * Intern (25/08/2021~31/01/2022)
