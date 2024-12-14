@@ -9,7 +9,7 @@
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
 #
 
-### 💻 Tools 💻
+### ⚙️ Tools ⚙️
 <!-- IDE -->
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
@@ -95,7 +95,7 @@
 
 #
 
-### 👨‍💼 WORK EXPERIENCE 👨‍💼
+### 💼 WORK EXPERIENCE 💼
 
 #### [mDoc Homecare](https://m-doc.io/), Seoul, Republic of Korea
 * Intern (25/08/2021~31/01/2022)
