@@ -4,46 +4,43 @@
 
 
 ### 👇 Contact to me 👇
-
-<a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seojang0510@gmail.com"/></a> <br/>
-<a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:seojang980510@naver.com"/></a>
-#
+<a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-7B3B47?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-4F6735?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
 ### ⚙️ Tools ⚙️
 <!-- IDE -->
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<br/>
-<!--Version Control & Project Management -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-<br/>
-<!-- Build Tools -->
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellijidea-5D4D7B?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-3D517B?style=flat&logo=Eclipse IDE&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-3E677F?style=flat&logo=Visual Studio Code&logoColor=white"/> 
+<br/> 
+<!--Version Control & Project Management --> 
+<img src="https://img.shields.io/badge/Git-7B3B47?style=flat&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jira-3D517B?style=flat&logo=jira&logoColor=white"/> 
+<br/> 
+<!-- Build Tools --> 
+<img src="https://img.shields.io/badge/Gradle-5D4D7B?style=flat&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Maven-7B3B47?style=flat&logo=apachemaven&logoColor=white"/>
 
 ### 🧑‍💻 Used 🧑‍💻
-<!-- Framework -->
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<!-- Framework --> 
+<img src="https://img.shields.io/badge/Spring Boot-4F6735?style=flat&logo=springboot&logoColor=white"/> 
 <br/>
 <!-- Databases -->
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-<br/>
+<img src="https://img.shields.io/badge/mysql-3D517B?style=flat&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MariaDB-3E677F?style=flat&logo=MariaDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-5D4D7B?style=flat&logo=postgresql&logoColor=white"/>
+<br/> 
 <!-- Cache & Message Queue -->
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-7B3B47?style=flat&logo=Redis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/RabbitMQ-7F4F32?style=flat&logo=rabbitmq&logoColor=white"/>
 
 ### 🌱 Interest & Studying 🌱
-<!-- Spring Ecosystem -->
-<img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<!-- Spring Ecosystem --> 
+<img src="https://img.shields.io/badge/Spring Cloud-4F6735?style=flat&logo=spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring WebFlux-4F6735?style=flat&logo=spring&logoColor=white"/>
 <br/>
-<!-- Message Streaming -->
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-  
+<!-- Message Streaming --> 
+<img src="https://img.shields.io/badge/Apache Kafka-705734?style=flat&logo=apachekafka&logoColor=white"/>
 <br/>
 
 #
