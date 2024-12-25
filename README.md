@@ -53,11 +53,6 @@
   <picture>
     <source 
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seo-Jangwon&theme=tokyonight" />
   </picture>
@@ -66,11 +61,6 @@
   <picture>
     <source 
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seo-Jangwon&theme=tokyonight" />
   </picture>
@@ -79,11 +69,6 @@
   <picture>
     <source 
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=default&utcOffset=9"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seo-Jangwon&theme=tokyonight&utcOffset=9" />
   </picture>
