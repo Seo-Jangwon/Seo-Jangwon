@@ -4,7 +4,7 @@
 
 
 ### 👇 Contact to me 👇
-<a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-7B3B47?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-7B3B47?style=for-the-badge&logo=Gmail&logoColor=white"/></a></br>
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-4F6735?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
 ### ⚙️ Tools ⚙️
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Spring WebFlux-4F6735?style=flat&logo=spring&logoColor=white"/>
 <br/>
 <!-- Message Streaming --> 
-<img src="https://img.shields.io/badge/Apache Kafka-705734?style=flat&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-1a1b26?style=flat&logo=apachekafka&logoColor=white"/>
 <br/>
 
 #
