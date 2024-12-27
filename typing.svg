@@ -1,13 +1,12 @@
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 700 100' style="background-color: #1a1b26;">
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 900 100' style="background-color: #1a1b26; width: 1000px;">
     <path id='path0'>
         <animate id='d0' attributeName='d' begin='0s;d0.end' dur='6000ms' fill='remove'
-            values='m0,50 h0 ; m0,50 h700 ; m0,50 h700 ; m0,50 h0'
+            values='m0,50 h0 ; m0,50 h900 ; m0,50 h900 ; m0,50 h0'
             keyTimes='0;0.4;0.6;1' />
     </path>
-    <text font-family='Fira Code, Consolas, Monaco, monospace' font-size='28'
+    <text font-family='Fira Code, Consolas, Monaco, monospace' font-size='30'
         dominant-baseline='middle' x='50%' text-anchor='middle' font-weight='bold'>
         <textPath xlink:href='#path0'>
-            <tspan fill="#bb9af7">✨ </tspan>
             <tspan fill="#7aa2f7">Hello</tspan>
             <tspan fill="#89ddff">, </tspan>
             <tspan fill="#f7768e">World</tspan>
@@ -16,7 +15,8 @@
             <tspan fill="#9ece6a">Seo</tspan>
             <tspan fill="#89ddff">, </tspan>
             <tspan fill="#9ece6a">Jangwon</tspan>
-            <tspan fill="#bb9af7"> ✨</tspan>
+            <tspan fill="#89ddff">! </tspan>
+            <tspan fill="#bb9af7"> (* 'ᵕ' )ﾉ</tspan>
         </textPath>
     </text>
 </svg>
