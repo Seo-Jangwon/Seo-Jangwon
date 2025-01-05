@@ -95,7 +95,7 @@
 ### 💼 WORK EXPERIENCE 💼
 
 #### [mDoc Homecare](https://m-doc.io/), Seoul, Republic of Korea
-* Intern (25/08/2021~31/01/2022)
+* Intern (August 25, 2021 - January 31, 2022)
 * Developed a serverless web app using React (JavaScript) & AWS Amplify
 * Developed appointment scheduling page and patient consultation management page, etc.
 
