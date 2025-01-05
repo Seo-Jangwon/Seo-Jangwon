@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Gradle-5D4D7B?style=flat&logo=gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Maven-7B3B47?style=flat&logo=apachemaven&logoColor=white"/>
 
-### 🧑‍💻 Used 🧑‍💻
+### 🧑‍💻 Technical Experience 🧑‍💻
 <!-- Framework --> 
 <img src="https://img.shields.io/badge/Spring Boot-4F6735?style=flat&logo=springboot&logoColor=white"/> 
 <br/>
