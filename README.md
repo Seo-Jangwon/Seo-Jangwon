@@ -3,7 +3,7 @@
 # <img src="./typing.svg" width="750" alt="Typing SVG" />
 
 
-### 👇 Contact to me 👇
+### 👇 Contact me 👇
 <a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-7B3B47?style=for-the-badge&logo=Gmail&logoColor=white"/></a></br>
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-4F6735?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
