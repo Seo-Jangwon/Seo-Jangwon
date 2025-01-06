@@ -15,6 +15,17 @@
            <stop offset="0%" style="stop-color:#c0caf5;stop-opacity:0"/>
            <stop offset="100%" style="stop-color:#c0caf5;stop-opacity:1"/>
        </linearGradient>
+       
+       <!-- 텍스트 glow 필터 -->
+       <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
+           <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" />
+       </filter>
+       <filter id="blur2" x="-50%" y="-50%" width="200%" height="200%">
+           <feGaussianBlur in="SourceGraphic" stdDeviation="3" />
+       </filter>
+       <filter id="blur3" x="-50%" y="-50%" width="200%" height="200%">
+           <feGaussianBlur in="SourceGraphic" stdDeviation="4.5" />
+       </filter>
    </defs>
 
    <rect width="100%" height="100%" fill="url(#nightSky)"/>
@@ -127,7 +138,6 @@
            keyTimes="0;0.1;0.15;0.35;1"
            repeatCount="indefinite"/>
    </line>
-
    </g>
 
    <path id='path0'>
@@ -135,6 +145,46 @@
            values='m0,33 h0 ; m0,33 h600 ; m0,33 h600 ; m0,33 h0'
            keyTimes='0;0.4;0.6;1' />
    </path>
+
+   <!-- 가장 큰 블러 -->
+   <text font-family='Fira Code, Consolas, Monaco, monospace' font-size='20'
+       dominant-baseline='middle' x='50%' text-anchor='middle' font-weight='bold' 
+       filter="url(#blur3)" opacity="0.3">
+       <textPath xlink:href='#path0'>
+           <tspan fill="#7aa2f7">Hello</tspan>
+           <tspan fill="#89ddff">, </tspan>
+           <tspan fill="#f7768e">World</tspan>
+           <tspan fill="#89ddff">! </tspan>
+           <tspan fill="#bb9af7">I'm </tspan>
+           <tspan fill="#9ece6a">Seo</tspan>
+           <tspan fill="#89ddff">, </tspan>
+           <tspan fill="#9ece6a">Jangwon</tspan>
+           <tspan fill="#89ddff">! </tspan>
+           <tspan fill="#ff9e64"> (* 'ᵕ' )ﾉ</tspan>
+       </textPath>
+   </text>
+
+   <!-- 중간 블러 -->
+   <text font-family='Fira Code, Consolas, Monaco, monospace' font-size='20'
+       dominant-baseline='middle' x='50%' text-anchor='middle' font-weight='bold' 
+       filter="url(#blur2)" opacity="0.5">
+       <textPath xlink:href='#path0'>
+           <tspan fill="#7aa2f7">Hello</tspan>
+           <tspan fill="#89ddff">, </tspan>
+           <tspan fill="#f7768e">World</tspan>
+           <tspan fill="#89ddff">! </tspan>
+           <tspan fill="#bb9af7">I'm </tspan>
+           <tspan fill="#9ece6a">Seo</tspan>
+           <tspan fill="#89ddff">, </tspan>
+           <tspan fill="#9ece6a">Jangwon</tspan>
+           <tspan fill="#89ddff">! </tspan>
+           <tspan fill="#ff9e64"> (* 'ᵕ' )ﾉ</tspan>
+       </textPath>
+   </text>
+
+
+
+   <!-- 원본 텍스트 -->
    <text font-family='Fira Code, Consolas, Monaco, monospace' font-size='20'
        dominant-baseline='middle' x='50%' text-anchor='middle' font-weight='bold'>
        <textPath xlink:href='#path0'>
