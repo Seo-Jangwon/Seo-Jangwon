@@ -7,6 +7,9 @@
 <a href="mailto:seojang0510@gmail.com"><img src="https://img.shields.io/badge/seojang0510@gmail.com-7B3B47?style=for-the-badge&logo=Gmail&logoColor=white"/></a></br>
 <a href="mailto:seojang980510@naver.com"><img src="https://img.shields.io/badge/seojang980510@naver.com-4F6735?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
+### 📁 Portfolio 📁
+<a href="https://ripe-horn-090.notion.site/aecea813ddc84c0194f4eff3470af39a?pvs=4"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
 ### ⚙️ Tools ⚙️
 <!-- IDE -->
 <img src="https://img.shields.io/badge/intellijidea-5D4D7B?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
