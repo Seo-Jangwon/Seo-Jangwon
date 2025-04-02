@@ -43,9 +43,6 @@
 <img src="https://img.shields.io/badge/Apache Kafka-1a1b26?style=flat&logo=apachekafka&logoColor=white"/>
 <br/>
 
-### 📟 Algorithm 📟
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seojang980510)](https://solved.ac/seojang980510)
-
 #
 
 <br/>
